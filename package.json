@@ -1,0 +1,39 @@
+{
+  "name": "react-hook-intersection-observer",
+  "description": "A simple React Hook that uses the Intersection Observer API",
+  "keywords": [
+    "react",
+    "hooks",
+    "react hooks",
+    "intersection observer"
+  ],
+  "bugs": {
+    "email": "tejas@tejas.qa",
+    "url": "https://github.com/tejasq/react-hook-intersection-observer"
+  },
+  "author": {
+    "email": "tejas@tejas.qa",
+    "name": "Tejas Kumar",
+    "url": "https://twitter.com/tejaskumar_"
+  },
+  "contributors": [
+    {
+      "email": "tejas@tejas.qa",
+      "name": "Tejas Kumar",
+      "url": "https://twitter.com/tejaskumar_"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tejasq/react-hook-intersection-observer"
+  },
+  "version": "0.1.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.7.0-alpha.2"
+  },
+  "peerDependencies": {
+    "react": "^16.7.0-alpha.2"
+  }
+}
