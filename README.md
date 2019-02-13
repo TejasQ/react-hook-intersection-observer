@@ -3,8 +3,6 @@ This simple [React](https://reactjs.org/) [Hook](https://reactjs.org/docs/hooks-
 
 ## Getting Started
 
-> ⚠ **Caution:** Hooks is an experimental _proposal_ from the React core team and is best not to use in production _yet_. This project will likely become production ready when Hooks are, but for now, let it serve fun and educational purposes.
-
 Firstly, you'll want to `yarn add react-hook-intersection-observer` into your project.
 
 Then, using this is as simple as:
